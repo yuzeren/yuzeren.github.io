@@ -4,3 +4,4 @@ My personal website.
 - 把github page 搞起来了
 - 把 github desktop 和本地仓库搞起来了
 - 原来私有仓库不能发布成网站，搞定了私有改公有
+- 选了一个Jekyll主题，还不清楚怎么自定义主题
