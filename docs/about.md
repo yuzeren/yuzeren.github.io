@@ -1,6 +1,8 @@
+---
 layout: page
 title: "关于我"
 permalink: /about/
+---
 
 # 现在，既然你醒了
 现在，既然你醒了，还记得
