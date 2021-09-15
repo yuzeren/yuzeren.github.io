@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "关于我"
-permalink: /about/
+permalink: /about1/
 ---
 
 # 现在，既然你醒了
